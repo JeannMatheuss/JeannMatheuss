@@ -5,7 +5,7 @@
 
 - 🌱 Estou estudando **Python, Javascript, HTML, CSS, C, Arduino e o Pacote Office**
 
-- 👯 Estou colaborando com o projeto **Vinheria de Agnello**
+- 👯 Estou colaborando com o projeto escolar **Vinheria Agnello**
 
 - 📫 Entre em contato: **ojeanoliveira06@gmail.com**
 
