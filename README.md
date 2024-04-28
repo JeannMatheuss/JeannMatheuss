@@ -13,8 +13,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/jean matheus mohamed de oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jean matheus mohamed de oliveira" height="30" width="40" /></a>
 <a href="https://instagram.com/i_jeannn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_jeannn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/i jean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="i jean" height="30" width="40" /></a>
-<a href="https://discord.gg/#0403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0403" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
