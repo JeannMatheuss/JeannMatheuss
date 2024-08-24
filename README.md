@@ -10,11 +10,11 @@
 
 ###
 
-<h3 align="left">Conexões</h3>
+<h3 align="center">Conexões</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="www.linkedin.com/in/jean-matheus-mohamed-de-oliveira-263a40295" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -38,11 +38,11 @@
 
 ###
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
+<h3 align="center">Linguagens e Ferramentas:</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
