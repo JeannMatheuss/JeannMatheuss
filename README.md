@@ -6,7 +6,7 @@ Sou estudante de Engenharia de Software na **FIAP**, apaixonado por tecnologia e
 ---
 
 ### 🚀 O que estou fazendo agora?
-- 🔭 Trabalhando no projeto **ScreenMatch**: explorando o Java e a Programação Orientada a Objetos.
+- 🔭 Explorando o Java e a Programação Orientada a Objetos.
 - 🌱 Estudando e aprimorando minhas habilidades em **Java**, **SQL**, **React js**, e em breve **Spring Boot**.
 - 👯 Colaborando no projeto escolar **Vinheria Agnello**, contribuindo com o desenvolvimento do sistema.
 
