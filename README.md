@@ -1,19 +1,19 @@
-# 👋 Olá, eu sou o Jean Matheus!
+# 👋 Hello, I'm Jean Matheus!
 
-### 🎓 Sobre mim
-Sou estudante de Engenharia de Software na **FIAP**, apaixonado por tecnologia e inovação. Atualmente, estou expandindo minhas habilidades em Java, React e SQL.
-
----
-
-### 🚀 O que estou fazendo agora?
-- 🔭 Explorando o Java e a Programação Orientada a Objetos.
-- 🌱 Estudando e aprimorando minhas habilidades em **Java**, **SQL**, **React js**, e em breve **Spring Boot**.
-- 👯 Colaborando no projeto escolar **Vinheria Agnello**, contribuindo com o desenvolvimento do sistema.
+### 🎓 About Me
+I'm a Software Engineering student at **FIAP**, passionate about technology and innovation. Currently, I’m expanding my skills in Java, React, and SQL.
 
 ---
 
-### 🌐 Conexões
-Você pode me encontrar nas seguintes plataformas:
+### 🚀 What I'm Doing Now
+- 🔭 Exploring Java and Object-Oriented Programming.
+- 🌱 Studying and improving my skills in **Java**, **SQL**, **React JS**, and soon **Spring Boot**.
+- 👯 Collaborating on the school project **Vinheria Agnello**, contributing to the system development.
+
+---
+
+### 🌐 Connections
+You can find me on the following platforms:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jean-matheus-mohamed-de-oliveira-263a40295" target="_blank">
@@ -26,17 +26,17 @@ Você pode me encontrar nas seguintes plataformas:
 
 ---
 
-### 📊 Status no GitHub
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeannMatheuss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeannMatheuss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JeannMatheuss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeannMatheuss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Most Used Languages" />
 </div>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-Aqui estão algumas das tecnologias e ferramentas que uso:
+### 🛠️ Technologies and Tools
+Here are some of the technologies and tools I use:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -68,5 +68,5 @@ Aqui estão algumas das tecnologias e ferramentas que uso:
 
 ---
 
-### ✨ Objetivo
-Busco constantemente aprender novas tecnologias e contribuir para projetos inovadores que impactem positivamente as pessoas e a sociedade.
+### ✨ Goal
+I constantly strive to learn new technologies and contribute to innovative projects that positively impact people and society.
