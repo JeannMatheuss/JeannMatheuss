@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Jean Matheus!
+# 👋 Hi, I'm Jean Matheus!
 
 ### 🎓 About Me
 I'm a Software Engineering student at **FIAP**, passionate about technology and innovation. Currently, I’m expanding my skills in Java, React, and SQL.
